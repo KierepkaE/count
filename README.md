@@ -1,6 +1,6 @@
 # count
 
-##### how to use
+### how to use
 
 - click button `increment` to see
   the number increases
