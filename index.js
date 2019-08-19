@@ -3,6 +3,7 @@ const decrement_button = document.getElementById("decrement");
 const display = document.getElementById("display");
 let counter = 0;
 display.textContent = counter;
+
 function add() {
   counter++;
   display.textContent = counter;
